@@ -2,9 +2,9 @@
   "name": "hx_simple_flow",
   "url" : "https://github.com/chamot1111/hxSimpleFlow",
   "license": "MIT",
-  "tags": ["fow", "monads"],
+  "tags": ["flow", "monads"],
   "description": "simple haxe process flow",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "releasenote": "Initial release, everything is working correctly.",
   "contributors": ["chamot1111"]
 }
